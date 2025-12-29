@@ -6,13 +6,13 @@ CKfly2fit is a multi-page website dedicated to Fly2Fit, an aerial arts and fitne
 ---
 
 ## Features
-Homepage: Introduction to Fly2Fit with an overview of the studio’s mission and offerings.
-CV Page: Showcases the tutor’s qualifications, experience, and expertise in aerial arts.
-Quiz Page: Allows users to test their knowledge about aerial arts and the Fly2Fit business.
-Schedule Page: Displays available class times for users interested in joining sessions.
-Contact Page: Lets users enter their name and information to reserve classes. Once submitted, a confirmation message displays the user’s info.
-Responsive Design: Clean layout styled using CSS for a professional and visually appealing look.
-PHP Backend: Handles the contact form submission and displays user confirmation messages dynamically.
+- Homepage: Introduction to Fly2Fit with an overview of the studio’s mission and offerings.
+- CV Page: Showcases the tutor’s qualifications, experience, and expertise in aerial arts.
+- Quiz Page: Allows users to test their knowledge about aerial arts and the Fly2Fit business.
+- Schedule Page: Displays available class times for users interested in joining sessions.
+- Contact Page: Lets users enter their name and information to reserve classes. Once submitted, a confirmation message displays the user’s info.
+- Responsive Design: Clean layout styled using CSS for a professional and visually appealing look.
+- PHP Backend: Handles the contact form submission and displays user confirmation messages dynamically.
 
 ---
 
@@ -62,4 +62,4 @@ Clear separation of pages for content, schedule, CV, and contact
 ---
 
 ## Contact
-GitHub: christinakhoury
+- GitHub: [github.com/christinakhoury](https://github.com/christinakhoury)
